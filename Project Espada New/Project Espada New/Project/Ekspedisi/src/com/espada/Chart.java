@@ -1,11 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-//Sumber Tutorial: Youtube User: Programming Knowledge
-
 package com.espada;
 
 import com.espada.model.*;
@@ -20,10 +12,6 @@ import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.category.DefaultCategoryDataset;
 import org.jfree.data.general.DefaultPieDataset;
 
-/**
- *
- * @author Hafiizh Eko M
- */
 public class Chart {
     
     qPengiriman pengiriman = new qPengiriman();
